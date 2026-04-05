@@ -61,6 +61,7 @@ This project analyzes UPI (Unified Payments Interface) transaction data to under
 
 * Most transactions are successful, indicating a reliable UPI system
 <img width="582" height="356" alt="image" src="https://github.com/user-attachments/assets/77f1911c-2874-4088-815d-273698dfc9da" />
+
 * Majority of transactions are low-value, showing daily usage behavior
 * Android devices dominate transaction volume
 <img width="582" height="363" alt="image" src="https://github.com/user-attachments/assets/29823d5b-77e7-4be6-bb56-737780034273" />
